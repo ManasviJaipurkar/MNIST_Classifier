@@ -3,3 +3,5 @@ torch==2.0.1
 torchvision==0.15.2
 Pillow==9.5.0
 matplotlib==3.7.1
+torch==1.13.0  
+torchvision==0.14.0
